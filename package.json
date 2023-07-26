@@ -1,0 +1,12 @@
+{
+	"name": "notbetrieb_dashboard",
+	"version": "1.0.0",
+	"description": "Dashboard for the notbetrieb-app.",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Sebastian Beier",
+	"license": "ISC"
+}
