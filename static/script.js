@@ -1,1 +1,3 @@
-console.log('Hello World!');
+import { print } from './script2.js';
+
+print();

@@ -8,7 +8,7 @@ app.use(
 
 app.get('/', (req: Request, res: Response) => {
 	res.sendFile(
-		'/Users/sebastianbeier/Code/notbetrieb_dashboard/src/index.html',
+		'/Users/sebastianbeier/Code/notbetrieb_dashboard/src/html/index.html',
 	);
 });
 
